@@ -8,6 +8,7 @@
 	<name>webdemo Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
+	    //shikong
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
